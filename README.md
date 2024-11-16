@@ -79,7 +79,6 @@
 ![NewRelic](https://img.shields.io/badge/-NewRelic-333333?style=flat&logo=NewRelic)
 ![Dynatrace](https://img.shields.io/badge/-Dynatrace-333333?style=flat&logo=Dynatrace)
 ![elastic](https://img.shields.io/badge/-Elastic-333333?style=flat&logo=elastic)
-![Aspecto](https://img.shields.io/badge/-Aspecto-333333?style=flat&logo=Aspecto)
 
 <!--<a href="https://github.com/alexandervsilva" title="Perfil do Alexander">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandervsilva&theme=dracula&show_icons=true" />
@@ -103,8 +102,7 @@
         alt="Github Stats"
       />
     </td>
-    <td>
-      <br />
+    <td>      
       <img
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=alexandervieira&theme=dark&hide_border=false&show_icons=true"
