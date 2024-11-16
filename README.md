@@ -107,7 +107,7 @@
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=alexandervieira&theme=dark&hide_border=false&show_icons=true"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=alexandervieira&theme=dark&hide_border=true&show_icons=true"
         alt="Github Stats"
       />
     </td>
