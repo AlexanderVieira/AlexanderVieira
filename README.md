@@ -107,7 +107,7 @@
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=alexandervieira&theme=dark&hide_border=true&show_icons=true"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=alexandervieira&theme=dark&hide_border=false&show_icons=true"
         alt="Github Stats"
       />
     </td>
@@ -119,7 +119,7 @@
 <!--[![Linkedin](https://img.shields.io/badge/-Alexander.Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/alexander-silva-sfcᵀᴹ-mcp-3b6a55143)](#)-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/alexander-silva-sfcᵀᴹ-mcp-3b6a55143)
 [![Gmail Badge](https://img.shields.io/badge/-dev.asilva.rj@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.asilva.rj@gmail.com)](mailto:dev.asilva.rj@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/alexandervsilva?label=follow&style=social)](https://github.com/alexandervieira)
+[![GitHub](https://img.shields.io/github/followers/alexandervieira?label=follow&style=social)](https://github.com/alexandervieira)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
