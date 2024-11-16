@@ -4,8 +4,8 @@
 ## Olá, meu nome é Alexander Silva!
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Graduado em Engenharia de Computação.
-- 🎓 Pós-Graduado em Engenharia de Software em .NET no Instituto Infnet.
+- 🎓 Bacharel em Engenharia de Computação.
+- 🎓 MIT em Engenharia de Software em .NET no Instituto Infnet.
 - 💼 Trabalhando como Consultor II .NET C# na MGN Informática. Atualmente, alocado na Losango.
 - 🌱 Aprendendo mais sobre Engenharia de Software.
 
