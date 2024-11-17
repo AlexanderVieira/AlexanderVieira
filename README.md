@@ -9,24 +9,31 @@
 - 💼 Trabalhando como Consultor II .NET C# na MGN Informática. Atualmente, alocado na Losango.
 - 🌱 Aprendendo mais sobre Engenharia de Software.
 
-## Minhas Skills
+## Minhas Habilidades
 
-**Aplicações e Frameworks**
+**Linguagens de Programação**
 
 ![dotnet](https://img.shields.io/badge/-dotnet-333333?style=flat&logo=dotnet)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
+![VB.NET](https://img.shields.io/badge/-VB.NET-CB171E?logo=vb-netl&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
-![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
+![YAML](https://img.shields.io/badge/-YAML-CB171E?logo=yaml&logoColor=fff)
+
+**Frameworks**
+
+![ASPNET.MVC](https://img.shields.io/badge/-ASP.NET_MVC-333333?style=flat&logo=aspnet-mvc)
+![ASPNET.WEB.API](https://img.shields.io/badge/-ASP.NET_Web_API-333333?style=flat&logo=aspnet-web-api)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap&logoColor=1572B6)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
+![xUnit](https://img.shields.io/badge/-xUnit-333333?style=flat&logo=xUnit)
 
 **Dados**
 
@@ -38,22 +45,16 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis)
 
-**Utilidades**
-
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
-
 **DevOps**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![GitHubAction](https://img.shields.io/badge/-Github_Actions-333333?style=flat-square&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 ![AzureDevOps](https://img.shields.io/badge/-Azure_DevOps-333333?style=flat&logo=azure-devops)
 ![Codecov](https://img.shields.io/badge/Codecov-F01F7A?logo=codecov&logoColor=fff)
 ![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?logo=sonarcloud&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 
 **Computação em Nuvem**
 
@@ -68,6 +69,8 @@
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
 
 **Monitoramento e Observabilidade**
 
@@ -79,6 +82,26 @@
 ![NewRelic](https://img.shields.io/badge/-NewRelic-333333?style=flat&logo=NewRelic)
 ![Dynatrace](https://img.shields.io/badge/-Dynatrace-333333?style=flat&logo=Dynatrace)
 ![elastic](https://img.shields.io/badge/-Elastic-333333?style=flat&logo=elastic)
+![Elmah](https://img.shields.io/badge/-Elmah-333333?style=flat&logo=elmah)
+![logbee](https://img.shields.io/badge/-Logbee-333333?style=flat&logo=Logbee)
+
+**Engenharia de Software**
+
+![DDD](https://img.shields.io/badge/-DDD-333333?style=flat&logo=ddd)
+![TDD](https://img.shields.io/badge/-TDD-333333?style=flat&logo=tdd)
+![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat&logo=scrum)
+![CQRS](https://img.shields.io/badge/-CQRS-333333?style=flat&logo=cqrs)
+
+**Mensageria - AMQP**
+
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=RabbitMQ)
+
+**Arquitetura**
+
+![SOA](https://img.shields.io/badge/-SOA-333333?style=flat&logo=ddd)
+![Monolito](https://img.shields.io/badge/-Monólito-333333?style=flat&logo=monolito)
+![Microsserviços](https://img.shields.io/badge/-Microsserviços-333333?style=flat&logo=microservices)
+
 
 <!--<a href="https://github.com/alexandervsilva" title="Perfil do Alexander">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandervsilva&theme=dracula&show_icons=true" />
