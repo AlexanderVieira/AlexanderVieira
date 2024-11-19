@@ -121,7 +121,7 @@
     <td>
       <img 
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandervieira&layout=compact&langs_count=7&theme=dark"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandervieira&layout=compact&langs_count=7&theme=dark&count_private=true&hide=html,css,makefile,shell,lex,cmake,c,jupyter%20notebook,common%20lisp"
         alt="Github Stats"
       />
     </td>
